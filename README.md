@@ -1,7 +1,7 @@
 # Hydro-Acrylic
 适用于Hydro的卡片模糊与自定义背景插件
 
-# 安装
+## 安装
 将本仓库clone到`/root/.hydro/addons`目录下，进入仓库目录，运行：
 ```bash
 yarn
@@ -17,7 +17,7 @@ hydro addon add /root/hydro/addons/Hydro-Acrylic
 pm2 restart hydrooj
 ```
 
-# 添加/修改背景图
+## 添加/修改背景图
 在`frontend`目录下找到`nav-full.page.ts`，在第9行可填写url，格式如下：
 ```css
 background-image: url("你的图片URL");
