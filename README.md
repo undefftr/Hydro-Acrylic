@@ -2,7 +2,17 @@
 适用于Hydro的卡片模糊与自定义背景插件
 
 ## 安装
-将本仓库clone到`/root/.hydro/addons`目录下，进入仓库目录，运行：
+将本仓库clone到`/root/.hydro/addons`目录下，此时目录结构如下：
+```
+/root/.hydro/addons
+├── acrylicback
+│   ├── frontend
+│   │   └── nav-full.page.ts
+│   ├── package.json
+│   └── ...
+├── ...
+```
+进入仓库目录，运行：
 ```bash
 yarn
 ```
