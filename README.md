@@ -8,7 +8,7 @@ yarn
 ```
 后运行：
 ```bash
-hydro addon add /root/hydro/addons/Hydro-Acrylic
+hydrooj addon add /root/.hydro/addons/Hydro-Acrylic
 ```
 即安装完毕。
 
