@@ -5,7 +5,7 @@
 将本仓库clone到`/root/.hydro/addons`目录下，此时目录结构如下：
 ```
 /root/.hydro/addons
-├── acrylicback
+├── Hydro-Acrylic
 │   ├── frontend
 │   │   └── nav-full.page.ts
 │   ├── package.json
